@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.6" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:jats="http://www.ncbi.nlm.nih.gov/JATS1" xmlns:ai="http://www.crossref.org/AccessIndicators.xsd" version="4.3.6" xsi:schemaLocation="http://www.crossref.org/schema/4.3.6 https://www.crossref.org/schemas/crossref4.3.6.xsd">
+  <head>
+    <doi_batch_id>_1735047973</doi_batch_id>
+    <timestamp>20241224134613000</timestamp>
+    <depositor>
+      <depositor_name>Tomy Satria Alasi</depositor_name>
+      <email_address>tomysatriaalasi@live.com</email_address>
+    </depositor>
+    <registrant>STMIK Methodist Binjai</registrant>
+  </head>
+  <body>
+    <journal>
+      <journal_metadata>
+        <full_title>Jurnal Armada Informatika</full_title>
+        <abbrev_title>Armada</abbrev_title>
+        <issn media_type="electronic">2615-689X</issn>
+        <issn media_type="print">2598-0416</issn>
+      </journal_metadata>
+      <journal_issue>
+        <publication_date media_type="online">
+          <month>12</month>
+          <day>01</day>
+          <year>2024</year>
+        </publication_date>
+        <journal_volume>
+          <volume>8</volume>
+        </journal_volume>
+        <issue>2</issue>
+        <doi_data>
+          <doi>10.36520/jai.v8i2</doi>
+          <resource>https://jurnal.stmikmethodistbinjai.ac.id/jai/issue/view/17</resource>
+        </doi_data>
+      </journal_issue>
+      <journal_article xmlns:jats="http://www.ncbi.nlm.nih.gov/JATS1" xmlns:ai="http://www.crossref.org/AccessIndicators.xsd" publication_type="full_text" metadata_distribution_opts="any">
+        <titles>
+          <title>Sistem Pakar Diagnosa Penyakit Tanaman Jagung Menggunakan Metode Forward Chaining Pada Kabupaten Langkat</title>
+        </titles>
+        <contributors>
+          <person_name contributor_role="author" sequence="first" language="en">
+            <given_name>Ersada</given_name>
+            <surname>Ginting</surname>
+          </person_name>
+          <person_name contributor_role="author" sequence="additional" language="en">
+            <given_name>Tomy Satria</given_name>
+            <surname> Alasi</surname>
+          </person_name>
+          <person_name contributor_role="author" sequence="additional" language="en">
+            <given_name>Reza</given_name>
+            <surname>Alamsyah</surname>
+          </person_name>
+          <person_name contributor_role="author" sequence="additional" language="en">
+            <given_name>Marwa</given_name>
+            <surname>Halim</surname>
+          </person_name>
+          <person_name contributor_role="author" sequence="additional" language="en">
+            <given_name>Irwan Jani</given_name>
+            <surname>Tarigan</surname>
+          </person_name>
+        </contributors>
+        <jats:abstract xmlns:jats="http://www.ncbi.nlm.nih.gov/JATS1">
+          <jats:p>Perkembangan teknologi, terutama di sektor pertanian, telah menciptakan berbagai inovasi, termasuk penerapan kecerdasan buatan (AI) untuk meningkatkan efisiensi dan hasil produksi. Jagung, sebagai komoditas strategis dengan banyak kegunaan, kerap menghadapi tantangan berupa penyakit yang dapat menyebabkan kerugian signifikan. Di Kabupaten Langkat, luas lahan jagung terus berfluktuasi, mencerminkan pentingnya strategi perlindungan tanaman. Penyakit bulai, di antara beberapa penyakit lainnya, menjadi ancaman utama. Untuk membantu petani mengatasi masalah ini, dirancanglah Identifikasi Penyakit pada Tanaman Jagung. Dalam Penelitian Ini Forward Chaining untuk menganalisis gejala dan memberikan solusi penanganan. Metode penelitian meliputi observasi, wawancara, dan studi pustaka guna mengumpulkan data yang valid. Implementasi sistem ini melibatkan berbagai komponen perangkat keras dan lunak, serta memanfaatkan flowchart untuk memudahkan pengguna dalam memahami alur proses sistem.</jats:p>
+        </jats:abstract>
+        <publication_date media_type="online">
+          <month>12</month>
+          <day>01</day>
+          <year>2024</year>
+        </publication_date>
+        <pages>
+          <first_page>36</first_page>
+          <last_page>47</last_page>
+        </pages>
+        <ai:program xmlns:ai="http://www.crossref.org/AccessIndicators.xsd" name="AccessIndicators">
+          <ai:license_ref>https://creativecommons.org/licenses/by-nc-sa/4.0</ai:license_ref>
+        </ai:program>
+        <doi_data>
+          <doi>10.36520/jai.v8i2.130</doi>
+          <resource>https://jurnal.stmikmethodistbinjai.ac.id/jai/article/view/130</resource>
+          <collection property="crawler-based">
+            <item crawler="iParadigms">
+              <resource>https://jurnal.stmikmethodistbinjai.ac.id/jai/article/download/130/94</resource>
+            </item>
+          </collection>
+          <collection property="text-mining">
+            <item>
+              <resource mime_type="application/pdf">https://jurnal.stmikmethodistbinjai.ac.id/jai/article/download/130/94</resource>
+            </item>
+          </collection>
+        </doi_data>
+      </journal_article>
+    </journal>
+  </body>
+</doi_batch>
